@@ -1,0 +1,149 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+
+}
+
+
+/*.logo{
+	display: block;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #fff;
+	font-size: 20px;
+	font-family: 'Raleway', sans-serif;
+	letter-spacing: 2px;
+	font-weight: 600;
+	padding: 25px;
+	transition: all ease 0.5s;
+}*/
+.bg-image{
+	background-image: url('backgroundimage.jpeg');
+	padding-bottom: 200px;
+}
+.header{
+	width: 100%;
+	background-color: rgba(0,0,0,.2);
+
+
+
+}
+.header ul li{
+	list-style: none;
+	display: inline-block;
+
+}
+.header ul li a{
+	text-align-last: right;
+	display: block;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #fff;
+	font-size: 15px;
+	font-family: 'Raleway', sans-serif;
+	letter-spacing: 2px;
+	font-weight: 600;
+	padding: 25px;
+	transition: all ease 0.5s;
+
+
+}
+.header ul li a:hover{
+	background-color: #211b4385;
+}
+/*.image_container{
+	width: 100%;
+	height: 150px;
+	position: absolute;
+	object-fit: scale-down;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	border-radius: 60%;
+	overflow: hidden;
+
+	
+}*/
+
+.card_image{
+	width: 13%;
+	height: 175px;
+	/*object-fit: scale-down;*/
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	border-radius: 70%;
+	overflow: hidden;
+
+}
+
+.intro_container{
+	color: #ffffff;
+	font-size: 15px;
+	font-family: 'Raleway', sans-serif;
+	padding-top: 340px;
+	padding-left: 640px;
+	letter-spacing: 1px;
+}
+
+ hr {
+        width: 5%;
+        height: 3px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 30px;
+        background-color: #b2beb5;
+        border: 0 none;
+        }
+
+.cse{
+	color: #F5F5F5;
+	padding-top: 30px;
+	padding-left: 600px;
+	letter-spacing: 2px;
+}
+.About_me{
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	background-color: #008080;
+
+}
+.about_head{
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	letter-spacing: 2px;
+
+}
+.about_para{
+	color: white;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-orientation: sideways;
+	text-align: center;
+	font-size: 20px;
+	letter-spacing: 1px;
+}
+.btn-photo{
+
+	display: inline;
+		text-align-last: center;
+	display: block;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #fff;
+	font-size: 15px;
+	font-family: 'Raleway', sans-serif;
+	letter-spacing: 2px;
+	font-weight: 600;
+	padding: 25px;
+	transition: all ease 0.5s;
+
+}
+            
+
+
+
